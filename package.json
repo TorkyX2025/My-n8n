@@ -1,0 +1,11 @@
+{
+  "name": "my-n8n",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "n8n-core": "latest"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
