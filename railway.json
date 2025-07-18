@@ -1,0 +1,6 @@
+{
+  "sleep": {
+    "enabled": true,
+    "cron": "0 0-8 * * *"
+  }
+}
